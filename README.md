@@ -13,3 +13,7 @@ We then push our data through a 128 unit convolution and max-pooling layer with 
 We repeat the same with a layer of 64 units.
 Finally, we flatten our input and push the data through two fully connected layers: The hidden layer with 32 units and the Output layer with 8 units, with activation functions relu and softmax respectively.
 
+## Mini Demo of Final project ##
+
+https://user-images.githubusercontent.com/54148193/182010936-8522395b-03a7-45ec-98ef-8c1bf7b14b9d.mp4
+
